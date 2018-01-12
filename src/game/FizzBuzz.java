@@ -2,6 +2,19 @@ package game;
 
 import java.util.Scanner;
 
+/**
+ * Just a stupid command-line game I wrote out of boredom. Maybe I'll do more
+ * with this at some point because it's incredibly basic right now and I have
+ * some ideas that I can expand this with.
+ * 
+ * The game is just FizzBuzz. A number is printed, and you have to type the
+ * correct response (the number, fizz, buzz, or fizzbuzz). If you don't know
+ * how to play, instructions are provided. If you don't understand the
+ * instructions, google the game.
+ * 
+ * @author Dylan Weaver
+ *
+ */
 public class FizzBuzz {
 	// Used by the user to input their answer
 	static Scanner scanner = new Scanner(System.in);
