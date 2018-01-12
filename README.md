@@ -1,4 +1,4 @@
-#FizzBuzz-Game
+# FizzBuzz-Game
 
 ## WHAT IS THIS
 FizzBuzz
